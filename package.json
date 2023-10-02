@@ -1,6 +1,6 @@
 {
   "name": "react-shop",
-  "version": "4.17.10",
+  "version": "0.2.0",
   "homepage": "http://krzysu.github.io/reactjs-shopping-cart",
   "private": true,
   "devDependencies": {
@@ -12,7 +12,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-redux": "^4.17.20",
+    "react-redux": "^5.0.7",
     "redux": "^3.7.2"
   },
   "scripts": {
